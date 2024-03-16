@@ -11,7 +11,7 @@ package com.mycompany.belajar.java.dasar;
 public class SwitchStatement {
     public static void main(String[] args) {
         
-        var nilai = 'A';
+        var nilai = 'B';
         
         switch (nilai) {
             case 'A':

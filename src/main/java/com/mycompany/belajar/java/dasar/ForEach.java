@@ -20,9 +20,11 @@ public class ForEach {
 //            System.out.println(names[i]);
 //        }
 
+
+
         //FOR EACH
-        for (var name : names) {
-            System.out.println(name);
-        }
+//        for (var name : names) {
+//            System.out.println(name);
+//        }
     }
 }

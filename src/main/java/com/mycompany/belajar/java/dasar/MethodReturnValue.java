@@ -21,9 +21,12 @@ public class MethodReturnValue {
         System.out.println(result);
         System.out.println(sum(100,100));
         
-        System.out.println(hitung(100, "+", 200));
-        System.out.println(hitung(500, "-", 300));
-        System.out.println(hitung(500, "salah", 300));
+//        System.out.println(hitung(100, "+", 200));
+//        System.out.println(hitung(500, "-", 300));
+//        System.out.println(hitung(500, "salah", 300));
+
+         var total = hitung(250,"+", 150);
+        System.out.println(total);
     }
     
     static int sum(int value1, int value2){
