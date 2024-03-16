@@ -23,8 +23,8 @@ public class ForEach {
 
 
         //FOR EACH
-//        for (var name : names) {
-//            System.out.println(name);
-//        }
+        for (var name : names) {
+            System.out.println(name);
+        }
     }
 }
